@@ -3,6 +3,8 @@
 
 **Gra sandbox we wczesnej fazie rozwoju, skupiona na eksploracji nieskończonego świata, progresji postaci i osiągnięciach, tworzona w C#.**
 
+Oficjalny launcher startowy: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
+
 > **Uwaga:**  
 > Projekt znajduje się na wczesnym etapie rozwoju.  
 > Obecnie nie ma zaplanowanej daty premiery,  
