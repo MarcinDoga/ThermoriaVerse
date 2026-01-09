@@ -1,9 +1,9 @@
-## ThermoriaVerse
+# ThermoriaVerse
 [Polski](./README_PL.md)
 
 **A work-in-progress sandbox game focused on exploration, progression, and achievements, built in C#.**
 
-# Official Description of the game
+## Official Description of the game
 As the Architect, journey across a planet crafted from voxels—full of vibrant landscapes, life, and hidden powerful forces.
 Shape the worlds according to your own imagination: raising mountains, lowering lands, or creating massive structures. Every voxel, every plant, and every creature reacts to your presence.
 Build and destroy in the spirit of classic sandbox games, combined with the modern 3D approach of voxel pixel art.
