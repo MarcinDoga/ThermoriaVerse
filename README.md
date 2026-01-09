@@ -13,7 +13,7 @@ Control individual NPCs or observe from above. Help them survive, thrive, fight,
 Every decision has consequences—you can become their savior or their destroyer. Procedural world generation, biomes and vegetation, a dynamic chunk system, and GPU optimization ensure the game runs smoothly even in vast, complex environments with extensive render ranges.
 **ThermoriaVerse** — create your own multiverse.
 
-**Game Vision**
+## Game Vision
 The basic gameplay concept and progress are already established.
 Currently, development is focused on creating the planned experiences for players.
 #
