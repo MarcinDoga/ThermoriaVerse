@@ -19,7 +19,7 @@ Podstawowa koncepcja rozgrywki i postęp prac są już ustalone.
 Obecnie rozwój skupia się na tworzeniu zaplanowanych doświadczeń dla graczy.
 #
 
-Launcher startowy: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
+Launcher startowy: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
 
 > **Uwaga:**  
 > Projekt znajduje się na wczesnym etapie rozwoju.  
