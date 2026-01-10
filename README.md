@@ -18,7 +18,7 @@ The basic gameplay concept and progress are already established.
 Currently, development is focused on creating the planned experiences for players.
 #
 
-Launcher: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
+Launcher: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
 
 > **Note:**  
 > This project is in early development.  
